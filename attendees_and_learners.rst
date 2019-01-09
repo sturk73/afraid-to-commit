@@ -261,6 +261,10 @@ PyCon UK in Coventry, 22nd September 2013
 * Karim Lameer https://github.com/klameer
 * John Medley <john.medley@zephirlidar.com>
 
+Dutch Django Association Sprint in Amsterdam, 22nd February 2014
+----------------------------------------------------------------
+* Stomme Poes
+
 DjangoCon US in Chicago, 2nd September 2013
 -------------------------------------------
 
@@ -363,3 +367,4 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
+* Gonzo
